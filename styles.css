@@ -1,0 +1,38 @@
+.head{
+  text-align: center;
+  background: linear-gradient(to bottom, #FF3D68 0%, #FF6767 100%);
+  padding: 7% 7%;
+}
+#main{
+  background-color: #000;
+  color: #FAAD80;
+}
+.container-1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.container-2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px 0px 30px 0px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.container-3 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 0px 30px 0px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.footer{
+  text-align: center;
+  background: linear-gradient(to bottom, #FF3D68 0%, #FF6767 100%);
+  padding: 3% 3%;
+}
